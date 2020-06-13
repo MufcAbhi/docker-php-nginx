@@ -1,6 +1,6 @@
 FROM php:7.2-fpm
 
-MAINTAINER Olivier Pichon <op@united-asian.com>
+MAINTAINER Abhijeet Pradhanang <abhipradhanang@gmail.com>
 
 ARG build='build'
 
